@@ -1,0 +1,105 @@
+[
+  {
+    "slug": "ct-scanning",
+    "title": "Industrial CT Scanning",
+    "subtitle": "Non-destructive digital capture with <span class=\"text-[#FFFFFF] bg-[#EDC87C]/90 px-1 py-0.5 font-medium rounded-sm\">micron-accurate</span> precision.",
+    "overview": "Our industrial CT scanning technology creates perfect digital replicas of your irreplaceable artifacts, capturing both external geometries and internal structures with extraordinary precision. This non-destructive process reveals details invisible to the naked eye, preserving the complete essence of your valuable components.\n\nEvery scan is meticulously calibrated to capture the unique characteristics of your specific materials and components, ensuring that no detail—however minute—is overlooked.",
+    "specifications": [
+      {
+        "title": "Resolution",
+        "description": "Down to 5 microns (0.005mm), capturing details invisible to the naked eye"
+      },
+      {
+        "title": "Accuracy",
+        "description": "±2μm precision across all dimensions, verified through rigorous calibration"
+      },
+      {
+        "title": "Scan Volume",
+        "description": "Up to 1m × 1m × 1m for large components, with custom solutions available"
+      },
+      {
+        "title": "Material Compatibility",
+        "description": "All metals, composites, polymers, ceramics, and organic materials"
+      },
+      {
+        "title": "Output Formats",
+        "description": "STL, STEP, IGES, DICOM, and proprietary formats for specialized applications"
+      },
+      {
+        "title": "Analysis Capabilities",
+        "description": "Density mapping, void detection, wall thickness analysis, dimensional verification"
+      }
+    ],
+    "quote": "The difference between approximation and precision is the difference between imitation and preservation.",
+    "image": "/placeholder.svg?height=1200&width=1600&text=CT+Scanning+Detail"
+  },
+  {
+    "slug": "4d-printing",
+    "title": "4D Printing Technology",
+    "subtitle": "Advanced manufacturing with <span class=\"text-[#FFFFFF] bg-[#EDC87C]/90 px-1 py-0.5 font-medium rounded-sm\">time-responsive</span> materials.",
+    "overview": "Our proprietary 4D printing technology transcends traditional manufacturing limitations, creating components that not only match the original's form but also its functional properties and material behavior over time. The fourth dimension—time—is integrated into every piece we create.\n\nThis revolutionary approach allows us to replicate how materials respond to environmental conditions, ensuring authentic performance in all situations while maintaining the option to enhance durability where desired.",
+    "specifications": [
+      {
+        "title": "Material Integration",
+        "description": "Multi-material printing in a single process, with seamless transitions between properties"
+      },
+      {
+        "title": "Temporal Response",
+        "description": "Programmable material behavior in response to temperature, humidity, and mechanical stress"
+      },
+      {
+        "title": "Geometric Complexity",
+        "description": "Unlimited complexity with no traditional manufacturing constraints"
+      },
+      {
+        "title": "Resolution",
+        "description": "Layer thickness down to 16 microns with in-layer detail to 8 microns"
+      },
+      {
+        "title": "Material Library",
+        "description": "Over 200 base materials with customizable properties, including metals, polymers, and ceramics"
+      },
+      {
+        "title": "Functional Enhancement",
+        "description": "Optional integration of improved wear resistance, thermal properties, or structural integrity"
+      }
+    ],
+    "quote": "True replication isn't just about what something is, but how it changes and responds over time.",
+    "image": "/placeholder.svg?height=1200&width=1600&text=4D+Printing+Detail"
+  },
+  {
+    "slug": "white-glove",
+    "title": "White Glove Delivery",
+    "subtitle": "Concierge-level care with <span class=\"text-[#FFFFFF] bg-[#EDC87C]/90 px-1 py-0.5 font-medium rounded-sm\">uncompromising</span> attention to detail.",
+    "overview": "From initial consultation to final installation, our white glove service ensures that every aspect of your experience with PERPETUA meets the highest standards of luxury and discretion. We understand that the journey of your irreplaceable artifacts is as important as the destination.\n\nOur specialists handle every detail with meticulous care, from secure transportation in custom-designed, climate-controlled cases to expert installation that ensures perfect integration with your collection.",
+    "specifications": [
+      {
+        "title": "Consultation",
+        "description": "Private meetings at our atelier or your location, with complete confidentiality"
+      },
+      {
+        "title": "Transportation",
+        "description": "Custom-designed, climate-controlled cases with GPS tracking and security protocols"
+      },
+      {
+        "title": "Insurance",
+        "description": "Comprehensive coverage throughout the entire process, with no exclusions"
+      },
+      {
+        "title": "Installation",
+        "description": "Expert placement and integration by specialists who travel worldwide"
+      },
+      {
+        "title": "Documentation",
+        "description": "Detailed provenance and care instructions presented in archival-quality materials"
+      },
+      {
+        "title": "Aftercare",
+        "description": "Ongoing support and maintenance services tailored to your specific needs"
+      }
+    ],
+    "quote": "True luxury isn't merely about the object itself, but the complete experience surrounding it.",
+    "image": "/placeholder.svg?height=1200&width=1600&text=White+Glove+Service+Detail"
+  }
+]
+
