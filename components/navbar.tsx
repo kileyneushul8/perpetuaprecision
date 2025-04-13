@@ -26,12 +26,11 @@ export default function Navbar() {
     return () => window.removeEventListener("scroll", handleScroll)
   }, [])
 
-  const navLinks = [
+  const links = [
     { href: "/", label: "Home" },
     { href: "/about", label: "About" },
-    { href: "/services", label: "Services" },
     { href: "/process", label: "Process" },
-    { href: "/portfolio", label: "Portfolio" },
+    { href: "/services", label: "Services" },
     { href: "/contact", label: "Contact" },
   ]
 
@@ -57,7 +56,7 @@ export default function Navbar() {
 
         {/* Desktop Navigation */}
         <nav className="hidden md:flex gap-8">
-          {navLinks.map((link) => (
+          {links.map((link) => (
             <Link
               key={link.href}
               href={link.href}
@@ -91,7 +90,7 @@ export default function Navbar() {
       {isMenuOpen && (
         <div className="md:hidden backdrop-blur-sm" style={{ background: "rgba(28, 43, 57, 0.9)" }}>
           <div className="container py-4 space-y-4">
-            {navLinks.map((link) => (
+            {links.map((link) => (
               <Link
                 key={link.href}
                 href={link.href}

@@ -16,7 +16,7 @@ export const metadata = {
   title: "PERPETUA PRECISION | Replication for Exclusive Luxury",
   description:
     "Industrial CT scanning and 4D printing technology for the world's most exclusive automotive parts and luxury items.",
-    generator: 'v0.dev'
+  generator: 'v0.dev'
 }
 
 export default function RootLayout({
@@ -25,9 +25,9 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en" className={spaceGrotesk.variable}>
+    <html lang="en" className={spaceGrotesk.variable} suppressHydrationWarning>
       <body className={spaceGrotesk.className}>
-        <ThemeProvider attribute="class" defaultTheme="light" enableSystem disableTransitionOnChange>
+        <ThemeProvider>
           <ScrollToTop />
           <Navbar />
           <div className="min-h-screen">{children}</div>
